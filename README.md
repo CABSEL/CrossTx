@@ -8,6 +8,6 @@ the same treatment and background transcriptome data of the target cells. Backgr
  
  Please refer to the publication below for details:
  
- P. Chrysinas, C. Chen, R. Gunawan. CrossTx: Cross-cell line Transcriptomic Signature Prediction, bioRxiv, 523287, 2022. 
+ P. Chrysinas, C. Chen, R. Gunawan. CrossTx: Cross-cell line Transcriptomic Signature Prediction, bioRxiv, 523287, 2023. 
  
  Link: https://www.biorxiv.org/content/10.1101/2023.01.09.523287v1
