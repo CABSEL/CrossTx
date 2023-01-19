@@ -1,7 +1,7 @@
 # CrossTx: Cross-cell line Transcriptomic Signature Predictions
 
 <p align="center">
-  <img src="crosstx_main_photo.png">
+  <img src="crosstx_main_photo1.png">
 </p>
 
 CrossTx is a tool for predicting transcriptional response of an unseen target cell line
